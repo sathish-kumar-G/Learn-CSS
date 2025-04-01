@@ -1,0 +1,37 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    font-size: 20px;
+}
+
+p{
+    color: aquamarine;
+}
+
+h1,h3{
+    color: pink;
+}
+
+h3{
+    color: green;
+}
+
+.heading{
+   color: brown; 
+}
+
+#second-p{
+    color: blueviolet;
+}
+
+p span{
+    text-transform: uppercase;
+    color: gold;
+}
+
+.highlight{
+    text-transform: uppercase;
+    color: tomato;
+}
